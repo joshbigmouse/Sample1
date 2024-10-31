@@ -1,1 +1,1 @@
-console.log("Sample")
+const pair = 'Sample';
